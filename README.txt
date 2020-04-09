@@ -1,5 +1,5 @@
 repo for my personal website
 
 
-https://yimeichen.github.io/LizChen/
+https://ShishirKumar93.github.io
 
